@@ -2415,7 +2415,7 @@ UPDATE creature_template SET name='巨型草原科多兽',subname='' WHERE entry
 UPDATE creature_template SET name='草原科多兽',subname='' WHERE entry=3236;
 UPDATE creature_template SET name='长毛科多兽',subname='' WHERE entry=3237;
 UPDATE creature_template SET name='雷鳞蜥蜴',subname='' WHERE entry=3238;
-UPDATE creature_template SET name='尤希尔·唤月',subname='' WHERE entry=3239;
+UPDATE creature_template SET name='电角蜥蜴',subname='' WHERE entry=3239;
 UPDATE creature_template SET name='雷角蜥蜴',subname='' WHERE entry=3240;
 UPDATE creature_template SET name='草原狮王',subname='' WHERE entry=3241;
 UPDATE creature_template SET name='快步斑马',subname='' WHERE entry=3242;
