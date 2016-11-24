@@ -2107,7 +2107,7 @@ UPDATE page_text SET text='День 214586:
 UPDATE page_text SET text='День 214701:
 Братцы вернулись! Они, оказывается, спали в закрытых коридорах!
 
-Я немножко зол, что они бросили меня одного присматривать за всем, но все равно отдал им немного блестящих погремушек, потому что я устал быть один и еще набегают постоянно.' WHERE entry=3603;
+Я немножко зол, что они бросили меня одного присматривать за всем, но все равно отдал им немного блестящих погремушек, потому что я устал быть один и еще набегают постоянно.' WHERE entry=3603;
 UPDATE page_text SET text='- Friendly fire!  Don''t doubt yourself - go ahead and cast that spell!  It''s OK if you miss;
  your arcane missiles probably won''t hit your friends.
 
