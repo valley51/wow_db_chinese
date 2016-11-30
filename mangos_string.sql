@@ -580,8 +580,8 @@ update mangos_string set content_default='玩家竞技场点数设置完毕。' 
 update mangos_string set content_default='对已加入竞技场队伍修改竞技场点数等，对在线玩家发送更新的状态...' where entry=744;
 update mangos_string set content_default='修改完成。' where entry=745;
 update mangos_string set content_default='完成清除竞技场点数。' where entry=746;
-update mangos_string set content_default='不是充足玩家。 这一场游戏意志结束在 %u 最小。' where entry=750;
-update mangos_string set content_default='不是充足玩家。 这一场游戏意志结束在 %u 秒。' where entry=751;
+update mangos_string set content_default='没有足够的玩家。 本次游戏将在 %u 分钟后结束。' where entry=750;
+update mangos_string set content_default='没有足够的玩家。 本次游戏将在 %u 秒钟后结束。' where entry=751;
 update mangos_string set content_default='只有部落能使用哪一入口' where entry=753;
 update mangos_string set content_default='阿拉希盆地的战斗将在2分钟后开始。' where entry=754;
 update mangos_string set content_default='风暴之眼的战斗将在2分钟后开始。' where entry=755;
