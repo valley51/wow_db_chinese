@@ -547,7 +547,7 @@ update mangos_string set content_default='%s 不在机器旁: %s' where entry=70
 update mangos_string set content_default='请勿打扰' where entry=709;
 update mangos_string set content_default='不在机器旁' where entry=710;
 update mangos_string set content_default='等待的队伍状态为 %s(Lvl: %u 到 %u) 排队了联盟: %u(需要至少 %u 更多) 排队了部落: %u(需要至少 %u 更多)' where entry=711;
-update mangos_string set content_default='|cffff 0000[ 战场等待队列广播]:|r% s-- [%u-%u] 一: %u/%u, H: %u/%u| r' where entry=712;
+update mangos_string set content_default='|cffff 0000[ 战场等待队列广播]:|r% s-- [%u-%u] 联盟: %u/%u, 部落: %u/%u| r' where entry=712;
 update mangos_string set content_default='你必须是水平 %u 对接合处竞技场队!' where entry=713;
 update mangos_string set content_default='你没有达到战场水平需求' where entry=715;
 update mangos_string set content_default='|cffff 0000[ 战场等待队列广播]:|r% s-- [%u-%u] 开始!|r' where entry=717;
